@@ -3,10 +3,10 @@
     <channel>
         <title>Update Peppo Indonesia</title>
         <item>
-            <title>Version 2.0</title>
+            <title>Version 1.0.9</title>
 <!--             <description>desc tester</description> -->
-            <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.peppoindonesia.app" sparkle:version="2.0" sparkle:os="android" />
+            <pubDate>Sat, 26 Jul 2022 15:20:11 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.peppoindonesia.app" sparkle:version="1.0.9" sparkle:os="android" />
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
     </channel>
