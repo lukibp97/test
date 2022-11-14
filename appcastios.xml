@@ -1,1 +1,13 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Update Peppo Indonesia</title>
+        <item>
+            <title>Version 1.2.3</title>
+<!--             <description>desc tester</description> -->
+            <pubDate>tue, 23 Aug 2022 20:14:11 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/id/app/peppo-indonesia/id6443693606" sparkle:version="1.2.3" sparkle:os="ios" />
+            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+        </item>
+    </channel>
+</rss>
