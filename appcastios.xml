@@ -3,10 +3,10 @@
     <channel>
         <title>Update Peppo Indonesia</title>
         <item>
-            <title>Version 1.4.2</title>
+            <title>Version 1.4.3</title>
 <!--             <description>desc tester</description> -->
             <pubDate>tue, 23 Aug 2022 20:14:11 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/id/app/peppo-indonesia/id6443693606" sparkle:version="1.4.2" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/id/app/peppo-indonesia/id6443693606" sparkle:version="1.4.3" sparkle:os="ios" />
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
     </channel>
