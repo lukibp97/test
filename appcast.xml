@@ -6,7 +6,7 @@
             <title>Version 1.4.6</title>
 <!--             <description>desc tester</description> -->
 <!--        <pubDate>tue, 16 Jul 2024 20:14:11 +0000</pubDate> -->
-            <enclosure url="https://play.google.com/store/apps/details?id=com.peppoindonesia.app" sparkle:version="1.4.3" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.peppoindonesia.app" sparkle:version="1.4.6" sparkle:os="android" />
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
         </item>
     </channel>
